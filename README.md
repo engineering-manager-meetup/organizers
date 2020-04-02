@@ -14,7 +14,7 @@
 
 EM Meetupには専用の[Slack workspace](https://engineering-manager.slack.com/archives/CC5V1HYUF)が存在し、運営に関するアナウンスや議論だけでなくエンジニアリングマネジメントに関する情報交換が行われています。
 
-## 前提
+## 運営とイベント開催について
 
 - EM Meetup運営メンバーとは、[connpassのEM Meetupグループ](https://engineering-manager-meetup.connpass.com/)にて管理者の権限を有するメンバーを指します
 - 任意のEM Meetup運営メンバーはEM Meetupを任意のタイミングで開催できます
@@ -25,8 +25,6 @@ EM Meetupには専用の[Slack workspace](https://engineering-manager.slack.com/
   - 「発表・聴講形式」は数名の発表者によるプレゼンテーションを行い、参加者の大多数はその発表を聴講する形式です
   - その他にも思いも寄らない形式があるかもしれません。思いついた方はぜひアイデアを共有してみてください
 - 運営に関して細かいルールはありません。気負わず、協力して、継続的にやっていきましょう！
-
-## 
 
 ## リンク集
 
